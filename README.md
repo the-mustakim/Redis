@@ -148,3 +148,5 @@ The video briefly mentions several other advanced data types:
 - **Streams:** A log-like data structure for managing real-time data, logs, and messaging streams.
 
 ## 7. **Spring Boot CRUD with Redis**
+
+Refer the video link for hands-on and project files added in this repository.
